@@ -1,0 +1,6 @@
+cardinality = length of set containing all possible kmer compositions. Lower bound = 1 when all letters are the same, upper bound is len(set) - k + 1;
+
+4^k possibilities
+
+Hamiltanian path => visit every node exactly once
+Eulerian path => visit every edge exactly once

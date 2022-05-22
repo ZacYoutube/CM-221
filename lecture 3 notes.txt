@@ -1,0 +1,3 @@
+1. In de bruijn graph, the start node should have one more out going edge than incoming, vice versa for the end node
+
+Check for eularian path, one naive way is to check if there's odd degree
